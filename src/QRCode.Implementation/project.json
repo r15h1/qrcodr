@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "description": "QRCodeLib Class Library Implementation using QRCode.Net",
+  "authors": [ "R15H1" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": { }
+  },
+  "dependencies": {
+    "QRCode.Abstraction": "1.0.0-*",
+    "QrCode.Net": "0.4.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+  "description": "QRCodeAbstraction Class Library",
+  "authors": [ "R15H1" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": {
+      "frameworkAssemblies": {
+        "System.Drawing": "4.0.0.0"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}
